@@ -1,0 +1,12 @@
+{
+  "books": [
+    {
+      "name": "Jack",
+      "description": "Lorem ipsum",
+      "price": "11",
+      "discount": "17",
+      "imageUrl": "https://dfstudio-d420.kxcdn.com/wordpress/wp-content/uploads/2019/06/digital_camera_photo-1080x675.jpg",
+      "id": 1
+    }
+  ]
+}
